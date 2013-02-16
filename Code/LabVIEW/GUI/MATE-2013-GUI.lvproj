@@ -31,11 +31,10 @@
 			<Item Name="Teleop command.ctl" Type="VI" URL="../Support/Teleop command.ctl"/>
 			<Item Name="Wait for UDP connection.vi" Type="VI" URL="../Support/Wait for UDP connection.vi"/>
 		</Item>
-		<Item Name="Draw Steering Frame.vi" Type="VI" URL="../Draw Steering Frame.vi"/>
-		<Item Name="HMI Loop.vi" Type="VI" URL="../HMI Loop.vi"/>
+		<Item Name="HMI Logic.vi" Type="VI" URL="../HMI Logic.vi"/>
 		<Item Name="Initialize HMI.vi" Type="VI" URL="../Initialize HMI.vi"/>
 		<Item Name="Main MATE GUI.vi" Type="VI" URL="../Main MATE GUI.vi"/>
-		<Item Name="Normalize HMI.vi" Type="VI" URL="../Normalize HMI.vi"/>
+		<Item Name="ROV Host.lvclass" Type="LVClass" URL="../ROV Host.lvclass"/>
 		<Item Name="Set Steering Frame.vi" Type="VI" URL="../Set Steering Frame.vi"/>
 		<Item Name="Update Normalized Axes.vi" Type="VI" URL="../Update Normalized Axes.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -103,7 +102,6 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Normalize.vi" Type="VI" URL="../../../../../IGVC-2013/Code/Project 1.0/Remotes/Wiimote/Normalize.vi"/>
 			<Item Name="Normalized Axes.vi" Type="VI" URL="../Normalized Axes.vi"/>
 			<Item Name="Stop Steering Frame.vi" Type="VI" URL="../Stop Steering Frame.vi"/>
 		</Item>
