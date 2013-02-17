@@ -104,6 +104,7 @@
 			</Item>
 			<Item Name="Normalized Axes.vi" Type="VI" URL="../Normalized Axes.vi"/>
 			<Item Name="Stop Steering Frame.vi" Type="VI" URL="../Stop Steering Frame.vi"/>
+			<Item Name="XDNodeRunTimeDep.lvlib" Type="Library" URL="/&lt;vilib&gt;/Platform/TimedLoop/XDataNode/XDNodeRunTimeDep.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
