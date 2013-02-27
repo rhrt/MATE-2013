@@ -18,6 +18,22 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="ROV" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="Connect ROV.vi" Type="VI" URL="../ROV/Connect ROV.vi"/>
+			<Item Name="HMI Logic.vi" Type="VI" URL="../ROV/HMI Logic.vi"/>
+			<Item Name="Initialize HMI.vi" Type="VI" URL="../ROV/Initialize HMI.vi"/>
+			<Item Name="Set Steering Frame.vi" Type="VI" URL="../ROV/Set Steering Frame.vi"/>
+			<Item Name="Exponentialize Channels.vi" Type="VI" URL="../ROV/Exponentialize Channels.vi"/>
+			<Item Name="Initialize Steering Frame.vi" Type="VI" URL="../ROV/Initialize Steering Frame.vi"/>
+			<Item Name="Normalized Axes.vi" Type="VI" URL="../ROV/Normalized Axes.vi"/>
+			<Item Name="Stop Steering Frame.vi" Type="VI" URL="../ROV/Stop Steering Frame.vi"/>
+			<Item Name="Update Normalized Axes.vi" Type="VI" URL="../ROV/Update Normalized Axes.vi"/>
+			<Item Name="ROV Host.lvclass" Type="LVClass" URL="../ROV/ROV Host.lvclass"/>
+			<Item Name="Normalized Axes Logic.vi" Type="VI" URL="../ROV/Normalized Axes Logic.vi"/>
+			<Item Name="Update Normalized Axes Logic.vi" Type="VI" URL="../ROV/Update Normalized Axes Logic.vi"/>
+			<Item Name="Normalized Frame Logic.vi" Type="VI" URL="../ROV/Normalized Frame Logic.vi"/>
+		</Item>
 		<Item Name="Support" Type="Folder">
 			<Item Name="Convert input device to teleop command.vi" Type="VI" URL="../Support/Convert input device to teleop command.vi"/>
 			<Item Name="Convert joystick to teleop command.vi" Type="VI" URL="../Support/Convert joystick to teleop command.vi"/>
@@ -27,17 +43,10 @@
 			<Item Name="Remote robot control (robot acquires video).vi" Type="VI" URL="../Support/Remote robot control (robot acquires video).vi"/>
 			<Item Name="Robot globals (robot acquires video).vi" Type="VI" URL="../Support/Robot globals (robot acquires video).vi"/>
 			<Item Name="Robot Main (robot acquires video).vi" Type="VI" URL="../Support/Robot Main (robot acquires video).vi"/>
-			<Item Name="Safety commands.ctl" Type="VI" URL="../Support/Safety commands.ctl"/>
-			<Item Name="Teleop command.ctl" Type="VI" URL="../Support/Teleop command.ctl"/>
 			<Item Name="Wait for UDP connection.vi" Type="VI" URL="../Support/Wait for UDP connection.vi"/>
 		</Item>
-		<Item Name="HMI Logic.vi" Type="VI" URL="../HMI Logic.vi"/>
-		<Item Name="Initialize HMI.vi" Type="VI" URL="../Initialize HMI.vi"/>
 		<Item Name="Main MATE GUI.vi" Type="VI" URL="../Main MATE GUI.vi"/>
-		<Item Name="ROV Host.lvclass" Type="LVClass" URL="../ROV Host.lvclass"/>
 		<Item Name="ROV Test.vi" Type="VI" URL="../ROV Test.vi"/>
-		<Item Name="Set Steering Frame.vi" Type="VI" URL="../Set Steering Frame.vi"/>
-		<Item Name="Update Normalized Axes.vi" Type="VI" URL="../Update Normalized Axes.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
@@ -93,8 +102,6 @@
 				<Item Name="Set Pen State.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Set Pen State.vi"/>
 				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
 			</Item>
-			<Item Name="Exponentialize Channels.vi" Type="VI" URL="../Exponentialize Channels.vi"/>
-			<Item Name="Initialize Steering Frame.vi" Type="VI" URL="../Initialize Steering Frame.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
 			<Item Name="niimaqdx.dll" Type="Document" URL="niimaqdx.dll">
@@ -103,8 +110,7 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Normalized Axes.vi" Type="VI" URL="../Normalized Axes.vi"/>
-			<Item Name="Stop Steering Frame.vi" Type="VI" URL="../Stop Steering Frame.vi"/>
+			<Item Name="XDNodeRunTimeDep.lvlib" Type="Library" URL="/&lt;vilib&gt;/Platform/TimedLoop/XDataNode/XDNodeRunTimeDep.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
