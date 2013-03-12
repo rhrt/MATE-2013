@@ -74,13 +74,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="Read Steering Frame.vi" Type="VI" URL="../Read Steering Frame.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;`!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#2!=!!?!!!3%&amp;*06C")&lt;X.U,GRW9WRB=X-!!!&gt;34V9A&lt;X6U!!N!#A!%2'&amp;U91!!'E"!!!(`````!!9.47^U&lt;X)A9W^N&lt;7&amp;O:!")!0%!!!!!!!!!!B"34V9A3'^T&gt;#ZM&gt;G.M98.T%F2F&lt;'6P=#"D&lt;WVN97ZE,G.U&lt;!!=1&amp;!!!1!($F2F&lt;'6P=#"D&lt;WVN97ZE!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#2!=!!?!!!3%&amp;*06C")&lt;X.U,GRW9WRB=X-!!!:34V9A;7Y!!'%!]!!-!!-!"!!%!!5!#!!%!!1!"!!*!!1!"!!+!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!E!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;`!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#2!=!!?!!!3%&amp;*06C")&lt;X.U,GRW9WRB=X-!!!&gt;34V9A&lt;X6U!!N!!1!%2'&amp;U91!!'E"!!!(`````!!9.47^U&lt;X)A9W^N&lt;7&amp;O:!")!0%!!!!!!!!!!B"34V9A3'^T&gt;#ZM&gt;G.M98.T%F2F&lt;'6P=#"D&lt;WVN97ZE,G.U&lt;!!=1&amp;!!!1!($F2F&lt;'6P=#"D&lt;WVN97ZE!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#2!=!!?!!!3%&amp;*06C")&lt;X.U,GRW9WRB=X-!!!:34V9A;7Y!!'%!]!!-!!-!"!!%!!5!#!!%!!1!"!!*!!1!"!!+!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!E!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1115689488</Property>
 	</Item>
 	<Item Name="Safety commands.ctl" Type="VI" URL="../Safety commands.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"H!!!!!Q!+1#%%5X2P=!!!#E!B"6"B&gt;8.F!%M!]1!!!!!!!!!#%&amp;*06C")&lt;X.U,GRW9WRB=X-45W&amp;G:82Z)'.P&lt;7VB&lt;G2T,G.U&lt;!!?1&amp;!!!A!!!!%05W&amp;G:82Z)'.P&lt;7VB&lt;G2T!!%!!A!!!!!</Property>
@@ -101,7 +101,7 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 	</Item>
 	<Item Name="Write Steering Frame.vi" Type="VI" URL="../Write Steering Frame.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;`!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#2!=!!?!!!3%&amp;*06C")&lt;X.U,GRW9WRB=X-!!!&gt;34V9A&lt;X6U!!N!#A!%2'&amp;U91!!'E"!!!(`````!!9.47^U&lt;X)A9W^N&lt;7&amp;O:!")!0%!!!!!!!!!!B"34V9A3'^T&gt;#ZM&gt;G.M98.T%F2F&lt;'6P=#"D&lt;WVN97ZE,G.U&lt;!!=1&amp;!!!1!($F2F&lt;'6P=#"D&lt;WVN97ZE!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#2!=!!?!!!3%&amp;*06C")&lt;X.U,GRW9WRB=X-!!!:34V9A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!A!"!!*!!1!"!!+!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!%!!!!!!!!!!+!!!!!!!!!!!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;`!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#2!=!!?!!!3%&amp;*06C")&lt;X.U,GRW9WRB=X-!!!&gt;34V9A&lt;X6U!!N!!1!%2'&amp;U91!!'E"!!!(`````!!9.47^U&lt;X)A9W^N&lt;7&amp;O:!")!0%!!!!!!!!!!B"34V9A3'^T&gt;#ZM&gt;G.M98.T%F2F&lt;'6P=#"D&lt;WVN97ZE,G.U&lt;!!=1&amp;!!!1!($F2F&lt;'6P=#"D&lt;WVN97ZE!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#2!=!!?!!!3%&amp;*06C")&lt;X.U,GRW9WRB=X-!!!:34V9A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!A!"!!*!!1!"!!+!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!%!!!!!!!!!!+!!!!!!!!!!!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
